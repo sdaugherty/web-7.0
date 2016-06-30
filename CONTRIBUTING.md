@@ -11,22 +11,9 @@
 
 ## Coding Style
 - Use lowercase filenames
+- Do not use underscores in filenames
 
-| Filetype                         | Extension |
-| -------------------------------- | --------- |
-| Markdown                         | `.md`     |
-| Cascading Style Sheets           | `.css`    |
-| Hypertext Markup Language        | `.html`   |
-| Portable Network Graphics        | `.png`    |
-| Joint Photographic Experts Group | `.jpg`    |
-| Scalable Vector Graphics         | `.svg`    |
-| YAML Ain't Markup Language       | `.yml`    |
-| Plain Text                       | `.txt`    |
-| JavaScript Object Notation       | `.json`   |
-| Bourne-again shell script        | `.sh`     |
-| Encrypted                        | `.enc`    |
-| Execution runcom                 | `.exrc`   |
-
+Take note about the following fileextensions is preferred over their alternatives: `.md`, `.html`, `.jpg`
 
 ### MARKDOWN - editorial content
 - Use Brittish English
